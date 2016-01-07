@@ -132,7 +132,7 @@ margin-left: 60%;
   border-style: solid;
   border-color:#8A084B;
   background-color: #D8D8D8;
-  height: 52%;
+  height: 55%;
   width: 66%;
 
   margin: 0;
@@ -143,8 +143,9 @@ margin-left: 60%;
 
 .texte3{
   text-align: left;
-  font-size: 90%;
+  font-size: 110%;
   margin: 1%;
+  font-family:fantasy;
 }
 
 
@@ -156,11 +157,11 @@ margin-left: 60%;
     border-style: solid;
     border-color:#8A084B;
     background-color: #D8D8D8	;
-    height: 40%;
+    height: 36%;
     width: 66%;
     margin: 0;
     position: absolute;
-    top:91%;
+    top:94.5%;
     left:33%;
 }
 
@@ -172,7 +173,7 @@ margin-left: 60%;
     border-style: solid;
     border-color:#8A084B;
     background-color: #D8D8D8;
-    height: 30%;
+    height: 31%;
     width: 66%;
     margin: 0;
     position: absolute;
@@ -235,7 +236,7 @@ margin-left: 60%;
 
 .texte7{
   float: left;
-  
+
 }
 
 
