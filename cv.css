@@ -293,7 +293,9 @@ margin: 2%;
       float:left;
       font-size: 100%;
       }
-      
+
+
+
       /* orientation iOS font-size fix */
       @media (orientation: landscape) and (max-device-width: 768px) {
       	html,
