@@ -1,3 +1,7 @@
+
+
+
+
 a{color:black} /*mettre lien cliquable dans une autre couleur*/
 a:link{ text-decoration:none;}/*enlever soulignement lien cliquable*/
 
@@ -201,11 +205,11 @@ margin-left: 60%;
   border-style: solid;
   border-color:#8A084B;
   background-color:#D8D8D8	;
-  height: 50%;
+  height: 65%;
   width: 55%;
   margin: 2%;
   position: absolute;
-  top:40%;
+  top:25%;
 
 
 }
@@ -216,18 +220,23 @@ margin-left: 60%;
   border-style: solid;
   border-color:#8A084B;
   background-color: #E3DEDE	;
-  height: 50%;
+  height: 65%;
   width: 35%;
   margin: 2%;
   position:absolute;
-    top:40%;
+    top:25%;
     right:0.5%;
 }
 
 
+.progress{
+  float: right;
+}
 
-
-
+.texte7{
+  float: left;
+  
+}
 
 
 
@@ -260,6 +269,7 @@ margin: 2%;
     text-align: left;
   margin: 10%;
   }
+
 }
 
 
@@ -301,8 +311,8 @@ margin: 2%;
       float:left;
       font-size: 100%;
       }
-  }
 
+}
 
 
       /* orientation iOS font-size fix */
