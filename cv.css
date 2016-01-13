@@ -239,7 +239,9 @@ margin-left: 60%;
 
 }
 
-
+.p{
+  font size=20%;
+}
 
 
 
@@ -304,9 +306,7 @@ margin: 2%;
       float: right;
     }
     
-    .p{
-      font-size:20%;
-    }
+   
 }
 
 
