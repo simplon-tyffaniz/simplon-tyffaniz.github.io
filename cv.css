@@ -206,11 +206,11 @@ margin-left: 60%;
   border-style: solid;
   border-color:#8A084B;
   background-color:#D8D8D8	;
-  height: 65%;
+  height: 70%;
   width: 55%;
   margin: 2%;
   position: absolute;
-  top:25%;
+  top:20%;
 
 
 }
@@ -221,14 +221,13 @@ margin-left: 60%;
   border-style: solid;
   border-color:#8A084B;
   background-color: #E3DEDE	;
-  height: 65%;
+  height: 55%;
   width: 35%;
   margin: 2%;
   position:absolute;
-    top:25%;
+    top:27%;
     right:0.5%;
 }
-
 
 
 .progress{
@@ -241,6 +240,7 @@ margin-left: 60%;
   font-size: 105%;
 
 }
+
 
 
 
@@ -305,8 +305,6 @@ margin: 2%;
     .texte4{
       float: right;
     }
-    
-   
 }
 
 
