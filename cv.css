@@ -51,7 +51,7 @@ nav{
   border-color:#8A084B;
   background-color:#8A084B	;
   width: 30%;
-  height: 60%;
+  height: 65%;
   margin: 0;
   position: absolute;
   top: 35%;
@@ -114,13 +114,13 @@ margin: 2%;}
   border-style: solid;
   border-color:#8A084B;
   background-color:#8A084B	;
-  height: 60%;
+  height: 65%;
   width: 30%;
 
   margin: 0;
   position: absolute;
   color: white;
-top:105%;
+top:115%;
 
 }
 
@@ -132,7 +132,7 @@ margin-left: 60%;
   border-style: solid;
   border-color:#8A084B;
   background-color: #D8D8D8;
-  height: 55%;
+  height: 52%;
   width: 66%;
 
   margin: 0;
@@ -157,11 +157,11 @@ margin-left: 60%;
     border-style: solid;
     border-color:#8A084B;
     background-color: #D8D8D8	;
-    height: 36%;
+    height: 50%;
     width: 66%;
     margin: 0;
     position: absolute;
-    top:94.5%;
+    top:91%;
     left:33%;
 }
 
@@ -173,11 +173,11 @@ margin-left: 60%;
     border-style: solid;
     border-color:#8A084B;
     background-color: #D8D8D8;
-    height: 31%;
+    height: 35%;
     width: 66%;
     margin: 0;
     position: absolute;
-    top:135%;
+    top:145%;
     left: 33%
 }
 
@@ -210,7 +210,7 @@ margin-left: 60%;
   width: 55%;
   margin: 2%;
   position: absolute;
-  top:20%;
+  top:18%;
 
 
 }
@@ -232,12 +232,12 @@ margin-left: 60%;
 
 .progress{
   float: right;
-  font-size: 80%;
+  font-size: 100%;
 }
 
 .texte7{
   float: left;
-  font-size: 75%;
+  font-size: 95%;
 
 }
 
